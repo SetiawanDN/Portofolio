@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SoupApi.props" />
+</Project>

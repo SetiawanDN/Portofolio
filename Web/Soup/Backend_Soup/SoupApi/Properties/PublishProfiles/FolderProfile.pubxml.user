@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Deployment\backend-publish</_PublishTargetUrl>
+    <History>False|2024-01-06T03:42:13.8609981Z;True|2024-01-06T10:30:08.5711632+07:00;True|2024-01-05T10:21:29.2334171+07:00;True|2024-01-05T08:01:08.1382691+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
