@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703023273766",
+    "project_id": "serkom-51fe6",
+    "storage_bucket": "serkom-51fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703023273766:android:90ab44664b295826dcd3e7",
+        "android_client_info": {
+          "package_name": "com.example.kursus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703023273766-9mhb2pvelfjn3isrd876qdfrq7g3ecud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbiUerFWPKbfy0hA4NBVG4AaJYDlJtkrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703023273766-9mhb2pvelfjn3isrd876qdfrq7g3ecud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
