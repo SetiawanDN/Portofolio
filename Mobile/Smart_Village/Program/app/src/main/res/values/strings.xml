@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Smart Village</string>
+    <string name="fragment_first">Welcome</string>
+    <string name="MainActivity">SMART VILLAGE</string>
+    <string name="input_nama">Masukkan Nama</string>
+    <string name="input_nik">Masukkan NIK</string>
+    <string name="btn_to_main_activity">Masuk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">BERITA</string>
+    <string name="Pengaduan">Pengaduan</string>
+    <string name="warning_message">Mohon jangan berikan laporan palsu!</string>
+    <string name="alert_icon">Alert icon</string>
+    <string name="upload_title">Unggah Foto Bukti laporan</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="reporter_name">Nama Pelapor</string>
+    <string name="reporter_name_guide">Masukan nama Anda</string>
+    <string name="reporter_phone">Telepon Pelapor</string>
+    <string name="reporter_phone_guide">Masukan telepon Anda</string>
+    <string name="date">Tanggal Kejadian</string>
+    <string name="location">Lokasi Kejadian</string>
+    <string name="location_guide">Masukan lokasi kejadian</string>
+    <string name="report_title">Isi Laporan</string>
+    <string name="report_guide">Masukan laporan anda</string>
+    <string name="send_report">Kirim laporan</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="action_save">Save</string>
+    <string name="add_pengaduan">Tambah Pengaduan</string>
+    <string name="empty_task_message">Pengaduan tidak boleh kosong!</string>
+    <string name="delete_task">Hapus</string>
+    <string name="delete_pengaduan">Hapus Pengaduan</string>
+    <string name="title_hint">Judul</string>
+    <string name="open_folder">Open Folder</string>
+    <string name="choose_item">Pilih item</string>
+    <string name="failed_take">Gagal mengambil gambar</string>
+    <string name="camera_failed">Kamera gagal</string>
+
+    <string-array name="judul">
+        <item>Judul 1</item>
+        <item>Judul 2</item>
+        <item>Judul 3</item>
+        <item>Judul 4</item>
+        <item>Judul 5</item>
+        <item>Judul 6</item>
+        <item>Judul 7</item>
+        <item>Judul 8</item>
+        <item>Judul 9</item>
+        <item>Judul 10</item>
+    </string-array>
+
+    <string-array name="tanggal_upload">
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+    </string-array>
+</resources>

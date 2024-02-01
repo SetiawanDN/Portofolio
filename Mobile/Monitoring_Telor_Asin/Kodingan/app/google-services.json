@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329879934532",
+    "firebase_url": "https://telur-appsin-default-rtdb.firebaseio.com",
+    "project_id": "telur-appsin",
+    "storage_bucket": "telur-appsin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329879934532:android:a76af5eb4cc06abf82ce11",
+        "android_client_info": {
+          "package_name": "com.setiawan.appsin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329879934532-06q67memvckl2p02c3qba45ofet3d0l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmx-jGEEo5PHI7G0OW-_YjgoXYeHiWfkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329879934532-06q67memvckl2p02c3qba45ofet3d0l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
